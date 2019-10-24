@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-import User from '../../components/src/demo1/main/user.vue'
-import Bar from '../../components/src/demo1/children/bar.vue'
-import Foo from '../../components/src/demo1/children/foo.vue'
+import User from '../../components/demo1/main/user.vue'
+import Bar from '../../components/demo1/children/bar.vue'
+import Foo from '../../components/demo1/children/foo.vue'
 Vue.use(VueRouter)
 
 

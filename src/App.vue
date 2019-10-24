@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Entry from './components/src/demo1/entry'
+import Entry from './components/demo1/entry'
 export default {
   name: "app",
   components: {

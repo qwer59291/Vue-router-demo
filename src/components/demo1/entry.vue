@@ -7,7 +7,7 @@
   </div>
 </template>
 <script>
-import router from "../../../router/demo1/index.js";
+import router from "../../router/demo1/index.js";
 export default {
   data() {
     return {};
