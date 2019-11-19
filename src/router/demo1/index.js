@@ -18,7 +18,7 @@ const router = new VueRouter({
     }, {
       path: 'foo/:mId',
       component: Foo
-    }, ]
+    }]
   }]
 })
 
